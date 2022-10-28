@@ -19,3 +19,6 @@ C:\Users\User\Documents\UI\test22\test22\obj\Debug\net6.0-windows\test22.Form2.r
 C:\Users\User\Documents\UI\test22\test22\obj\Debug\net6.0-windows\test22.Resources.resources
 C:\Users\User\Documents\UI\test22\test22\obj\Debug\net6.0-windows\test22.Patientdetail.resources
 C:\Users\User\Documents\UI\test22\test22\obj\Debug\net6.0-windows\test22.Outpatient.resources
+C:\Users\User\Documents\UI\test22\test22\obj\Debug\net6.0-windows\test22.PatientPage.resources
+C:\Users\User\Documents\UI\test22\test22\obj\Debug\net6.0-windows\test22.Login.resources
+C:\Users\User\Documents\UI\test22\test22\obj\Debug\net6.0-windows\test22.Menu.resources

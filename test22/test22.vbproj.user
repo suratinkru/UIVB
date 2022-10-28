@@ -7,10 +7,19 @@
     <Compile Update="Form2.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Outpatient.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Patientdetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientPage.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
