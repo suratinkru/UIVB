@@ -41,144 +41,159 @@ Partial Class Menu
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(100, 67)
+        Me.Button1.Location = New System.Drawing.Point(70, 40)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(112, 34)
+        Me.Button1.Size = New System.Drawing.Size(78, 20)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "หน้าหลัก"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(290, 67)
+        Me.Button2.Location = New System.Drawing.Point(203, 40)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(112, 34)
+        Me.Button2.Size = New System.Drawing.Size(78, 20)
         Me.Button2.TabIndex = 1
         Me.Button2.Text = "login"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(488, 67)
+        Me.Button3.Location = New System.Drawing.Point(342, 40)
+        Me.Button3.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(112, 70)
+        Me.Button3.Size = New System.Drawing.Size(78, 42)
         Me.Button3.TabIndex = 2
         Me.Button3.Text = "รายละเอียด" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "ผู้ป่วย"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'Button4
         '
-        Me.Button4.Location = New System.Drawing.Point(698, 67)
+        Me.Button4.Location = New System.Drawing.Point(489, 40)
+        Me.Button4.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(112, 34)
+        Me.Button4.Size = New System.Drawing.Size(78, 20)
         Me.Button4.TabIndex = 3
         Me.Button4.Text = "ผู้ป่วยนอก"
         Me.Button4.UseVisualStyleBackColor = True
         '
         'Button5
         '
-        Me.Button5.Location = New System.Drawing.Point(918, 67)
+        Me.Button5.Location = New System.Drawing.Point(643, 40)
+        Me.Button5.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(112, 85)
+        Me.Button5.Size = New System.Drawing.Size(78, 51)
         Me.Button5.TabIndex = 4
         Me.Button5.Text = "หน้ารายละเอียด" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "ของผู้ป่วย"
         Me.Button5.UseVisualStyleBackColor = True
         '
         'Button6
         '
-        Me.Button6.Location = New System.Drawing.Point(1143, 67)
+        Me.Button6.Location = New System.Drawing.Point(800, 40)
+        Me.Button6.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button6.Name = "Button6"
-        Me.Button6.Size = New System.Drawing.Size(112, 85)
+        Me.Button6.Size = New System.Drawing.Size(78, 51)
         Me.Button6.TabIndex = 5
         Me.Button6.Text = "แก้ไขข้อ" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "มูลผู้ป่วย"
         Me.Button6.UseVisualStyleBackColor = True
         '
         'Button7
         '
-        Me.Button7.Location = New System.Drawing.Point(1386, 67)
+        Me.Button7.Location = New System.Drawing.Point(970, 40)
+        Me.Button7.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button7.Name = "Button7"
-        Me.Button7.Size = New System.Drawing.Size(112, 34)
+        Me.Button7.Size = New System.Drawing.Size(78, 20)
         Me.Button7.TabIndex = 6
         Me.Button7.Text = "หน้าหลัก"
         Me.Button7.UseVisualStyleBackColor = True
         '
         'Button8
         '
-        Me.Button8.Location = New System.Drawing.Point(1599, 67)
+        Me.Button8.Location = New System.Drawing.Point(1119, 40)
+        Me.Button8.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button8.Name = "Button8"
-        Me.Button8.Size = New System.Drawing.Size(112, 34)
+        Me.Button8.Size = New System.Drawing.Size(78, 20)
         Me.Button8.TabIndex = 7
         Me.Button8.Text = "หน้าหลัก"
         Me.Button8.UseVisualStyleBackColor = True
         '
         'Button9
         '
-        Me.Button9.Location = New System.Drawing.Point(100, 215)
+        Me.Button9.Location = New System.Drawing.Point(70, 129)
+        Me.Button9.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button9.Name = "Button9"
-        Me.Button9.Size = New System.Drawing.Size(112, 34)
+        Me.Button9.Size = New System.Drawing.Size(78, 20)
         Me.Button9.TabIndex = 8
         Me.Button9.Text = "หน้าหลัก"
         Me.Button9.UseVisualStyleBackColor = True
         '
         'Button10
         '
-        Me.Button10.Location = New System.Drawing.Point(290, 215)
+        Me.Button10.Location = New System.Drawing.Point(203, 129)
+        Me.Button10.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button10.Name = "Button10"
-        Me.Button10.Size = New System.Drawing.Size(112, 34)
+        Me.Button10.Size = New System.Drawing.Size(78, 20)
         Me.Button10.TabIndex = 9
         Me.Button10.Text = "หน้าหลัก"
         Me.Button10.UseVisualStyleBackColor = True
         '
         'Button11
         '
-        Me.Button11.Location = New System.Drawing.Point(488, 215)
+        Me.Button11.Location = New System.Drawing.Point(342, 129)
+        Me.Button11.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button11.Name = "Button11"
-        Me.Button11.Size = New System.Drawing.Size(112, 34)
+        Me.Button11.Size = New System.Drawing.Size(78, 20)
         Me.Button11.TabIndex = 10
         Me.Button11.Text = "หน้าหลัก"
         Me.Button11.UseVisualStyleBackColor = True
         '
         'Button12
         '
-        Me.Button12.Location = New System.Drawing.Point(698, 215)
+        Me.Button12.Location = New System.Drawing.Point(489, 129)
+        Me.Button12.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button12.Name = "Button12"
-        Me.Button12.Size = New System.Drawing.Size(112, 34)
+        Me.Button12.Size = New System.Drawing.Size(78, 20)
         Me.Button12.TabIndex = 11
         Me.Button12.Text = "หน้าหลัก"
         Me.Button12.UseVisualStyleBackColor = True
         '
         'Button13
         '
-        Me.Button13.Location = New System.Drawing.Point(918, 215)
+        Me.Button13.Location = New System.Drawing.Point(643, 129)
+        Me.Button13.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button13.Name = "Button13"
-        Me.Button13.Size = New System.Drawing.Size(112, 34)
+        Me.Button13.Size = New System.Drawing.Size(78, 20)
         Me.Button13.TabIndex = 12
         Me.Button13.Text = "หน้าหลัก"
         Me.Button13.UseVisualStyleBackColor = True
         '
         'Button14
         '
-        Me.Button14.Location = New System.Drawing.Point(1143, 215)
+        Me.Button14.Location = New System.Drawing.Point(800, 129)
+        Me.Button14.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button14.Name = "Button14"
-        Me.Button14.Size = New System.Drawing.Size(112, 34)
+        Me.Button14.Size = New System.Drawing.Size(78, 20)
         Me.Button14.TabIndex = 13
         Me.Button14.Text = "หน้าหลัก"
         Me.Button14.UseVisualStyleBackColor = True
         '
         'Button15
         '
-        Me.Button15.Location = New System.Drawing.Point(1386, 215)
+        Me.Button15.Location = New System.Drawing.Point(970, 129)
+        Me.Button15.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button15.Name = "Button15"
-        Me.Button15.Size = New System.Drawing.Size(112, 34)
+        Me.Button15.Size = New System.Drawing.Size(78, 20)
         Me.Button15.TabIndex = 14
         Me.Button15.Text = "หน้าหลัก"
         Me.Button15.UseVisualStyleBackColor = True
         '
         'Menu
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(10.0!, 25.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1833, 716)
+        Me.ClientSize = New System.Drawing.Size(1283, 430)
         Me.Controls.Add(Me.Button15)
         Me.Controls.Add(Me.Button14)
         Me.Controls.Add(Me.Button13)
@@ -194,6 +209,7 @@ Partial Class Menu
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
+        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Name = "Menu"
         Me.Text = "Menu"
         Me.ResumeLayout(False)
